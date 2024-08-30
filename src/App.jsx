@@ -19,9 +19,9 @@ function App() {
             <Navbar/>  
             <Hero/>
       </section>
-      <section id="Services"><Parallax type="competencies"/></section>
+      <section id="Competencies"><Parallax type="competencies"/></section>
       <section><Services/></section>
-      <section id="Portfolio"><Parallax type="projects"/></section>
+      <section id="Projects"><Parallax type="projects"/></section>
       <Portfolio/>
       
       <section id="Contact"><Contact/></section>
